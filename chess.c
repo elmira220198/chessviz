@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 main() {
+printf("Hello world");
 printf("8 r n b q k b n r \n");
 printf("7 p p p p p p p p \n");
 printf("6 \n");
